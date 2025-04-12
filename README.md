@@ -1,30 +1,33 @@
-# Mango-Soda  
-Kaio Mendes da Costa — 22 anos | Juiz de Fora - MG
+# Kaio Mendes da Costa (Mango-Soda)  
+22 years old — Juiz de Fora, MG, Brazil
 
-## Sobre mim
+## About
 
-Sou Kaio, desenvolvedor com foco em back-end, com quase 2 anos de experiência. Trabalho com diferentes linguagens, bancos de dados e frameworks, sempre buscando soluções práticas e bem estruturadas. Tenho 22 anos e estou constantemente aprendendo para evoluir tanto no lado técnico quanto no pessoal.
+Back-end focused developer with almost 2 years of experience. Always learning, building, and trying to write code that actually solves problems. I care about structure, clean logic, and understanding what I'm doing — not just doing it.
 
-Tenho facilidade com lógica, modelagem de dados e organização de código. Gosto de trabalhar com tecnologias que entregam resultado e que desafiam meu raciocínio.
+## Stack
 
-## Stack principal
+- Java, Go, C#, Python, JavaScript  
+- HTML, CSS, Razor Pages  
+- .NET Framework, ASP.NET, Spring Boot  
+- PostgreSQL, MongoDB  
+- Kafka, Docker, AWS, Postman  
+- Git, Linux  
 
-- **Linguagens**: Java, Go, C#, JavaScript, Python, SQL  
-- **Front-end**: HTML, CSS, Razor Pages  
-- **Back-end**: .NET Framework, ASP.NET, Spring Boot  
-- **Banco de Dados**: PostgreSQL, MongoDB  
-- **Ferramentas & Plataformas**: Kafka, AWS, Postman, Git, Linux  
-- **Conceitos**: Programação orientada a objetos, lógica de programação, modelagem de banco de dados    
+## Skills & Knowledge
 
-## Soft skills
+- Object-oriented programming  
+- Programming logic  
+- Database modeling  
+- REST API consumption  
+- System integration  
+- Basic testing and project organization  
 
-- Comunicação clara e objetiva  
-- Facilidade para trabalho em equipe  
-- Organização e foco em resolver problemas  
-- Perfil criativo para propor soluções e ideias novas  
+## Languages
 
-## Idiomas
+- Portuguese: native  
+- English: intermediate  
 
-- Português (nativo)  
-- Inglês (intermediário)
+## Personal
 
+Good communication, team-friendly, and always open to creative solutions when the obvious path doesn't cut it.
