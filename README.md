@@ -3,9 +3,9 @@ Kaio Mendes da Costa — 22 anos | Juiz de Fora - MG
 
 ## Sobre mim
 
-Sou Kaio, desenvolvedor com foco em back-end, experiência em diversas linguagens e bancos de dados, e gosto de aprender e aplicar soluções que façam sentido. Tenho 22 anos e estou sempre buscando melhorar minhas habilidades técnicas e interpessoais.
+Sou Kaio, desenvolvedor com foco em back-end, com quase 2 anos de experiência. Trabalho com diferentes linguagens, bancos de dados e frameworks, sempre buscando soluções práticas e bem estruturadas. Tenho 22 anos e estou constantemente aprendendo para evoluir tanto no lado técnico quanto no pessoal.
 
-Tenho facilidade com lógica, modelagem de dados e organização de código. Gosto de trabalhar com tecnologias que entregam resultado e que me desafiem a evoluir.
+Tenho facilidade com lógica, modelagem de dados e organização de código. Gosto de trabalhar com tecnologias que entregam resultado e que desafiam meu raciocínio.
 
 ## Stack principal
 
