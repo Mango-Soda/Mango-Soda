@@ -10,11 +10,11 @@ Tenho facilidade com lógica, modelagem de dados e organização de código. Gos
 ## Stack principal
 
 - **Linguagens**: Java, Go, C#, JavaScript, Python, SQL  
-- **Front-end**: HTML, CSS  
+- **Front-end**: HTML, CSS, Razor Pages  
 - **Back-end**: .NET Framework, ASP.NET, Spring Boot  
 - **Banco de Dados**: PostgreSQL, MongoDB  
-- **Conceitos**: Programação orientada a objetos, lógica de programação, modelagem de banco de dados  
-- **Outros**: Git, Linux  
+- **Ferramentas & Plataformas**: Kafka, AWS, Postman, Git, Linux  
+- **Conceitos**: Programação orientada a objetos, lógica de programação, modelagem de banco de dados    
 
 ## Soft skills
 
